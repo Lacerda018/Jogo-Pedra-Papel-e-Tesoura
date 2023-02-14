@@ -1,4 +1,4 @@
-# Jogo-Pedra-Papel-e-Tesoura
+# Jogo-Pedra-Papel-e-Tesoura (PYTHON)
 
 #Crie um programa que faça o computador jogar Jokenpô com você.
 
